@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A form of prayer and thanksgiving to Almighty God for having made his Highness the Prince of Orange the glorious instrument of the great deliverance of this kingdom from popery and arbitary power. To be used in the city of London and ten miles distant thereof, on the 31 of January instant, and throughout the whole kingdom on the 14 of February next.</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02178</idno>
+            <idno type="STC">Wing C4125AA</idno>
+            <idno type="STC">ESTC R173974</idno>
+            <idno type="EEBO-CITATION">53981493</idno>
+            <idno type="OCLC">ocm 53981493</idno>
+            <idno type="VID">180176</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02178)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180176)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2819:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A form of prayer and thanksgiving to Almighty God for having made his Highness the Prince of Orange the glorious instrument of the great deliverance of this kingdom from popery and arbitary power. To be used in the city of London and ten miles distant thereof, on the 31 of January instant, and throughout the whole kingdom on the 14 of February next.</title>
+                  <author>Church of England.</author>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Text of prayers in black letter.</note>
+                  <note>Order to print dated: Die Martis, January 22 1688/9. Signed: Jo. Brown cleric. Parliamentorum.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>Church of England --  Prayer-books and devotions --  17th century.</term>
+               <term>Prayers --  17th century.</term>
+               <term>Great Britain --  History --  Revolution of 1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180176:1" rendition="simple:additions"/>
+            <pb facs="tcp:180176:2"/>
+            <head>A Form of Prayer and Thankſgiving to Almighty GOD, for having made His HIGHNESS the <hi>PRINCE</hi> of <hi>ORANGE,</hi> The Glorious Inſtrument of the Great Deliverance of his Kingdom from <hi>Popery</hi> and <hi>Arbi<g ref="char:EOLhyphen"/>trary Power.</hi>
+            </head>
+            <head type="sub">To be uſed in the City of <hi>London</hi> and Ten Miles diſtant thereof, on the 31 of <hi>Janu<g ref="char:EOLhyphen"/>ary</hi> Inſtant, and throughout the whole Kingdom on the 14 of <hi>February</hi> next.</head>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Martis, January 22. 1688/9</date>
+                           </dateline>
+                        </opener>
+                        <p>ORDERED by the Lords Spiritual and Temporal Aſſembled at <hi>Weſtminſter,</hi> That the Lord Biſhop of <hi>London,</hi> the Lord Biſhop of <hi>Rocheſter,</hi> the Lord Biſhop of <hi>Norwich,</hi> the Lord Biſhop of <hi>Ely,</hi> the Lord Biſhop of <hi>Chi<g ref="char:EOLhyphen"/>chester,</hi> the Lord Biſhop of <hi>Glouceſter;</hi> the Lord Biſhop of <hi>Bath</hi> and <hi>Wells,</hi> the Lord Biſhop of <hi>Peterborough,</hi> the Lord Biſhop of <hi>Lincoln,</hi> the Lord Biſhop of <hi>Briſtol,,</hi> and the Lord Biſhop of St. <hi>Aſaph,</hi> be, and are hereby deſired to draw up a Form of Prayer and Thankſgiving to Almighty God, for having made His Highneſs the Prince of <hi>Orange,</hi> the Glorlous Inſtrument of the Great Deliverance of this Kingdom from Popery and Arbitrary Power, to be uſed in the City of London, and Ten Miles diſtance thereof, on the 31th of <hi>January</hi> Inſtant, and throughout the whole Kingdom on the 14th of <hi>February</hi> next.</p>
+                        <closer>
+                           <signed>
+                              <hi>JO, BROWN</hi> Cleric. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>¶ The Service ſhal be the ſame with the uſual Office for Holy days in all things; except where it is in this Office otherwiſe appointed.</p>
+            <p>¶ Morning Prayer ſhal begin with this Sentence:</p>
+            <q rend="blackletterType">
+               <hi>I</hi> Beſeech you, Brethren, by the Mercies of God, that ye preſent your Bodies a Living Sacrifice, holy, acceptable unto God, which is your reaſonable Service. <bibl>Rom. 12.1.</bibl>
+            </q>
+            <p>¶ <hi>In ſtead of <hi>Venite Exaltemus,</hi> ſhall be ſung or ſaid this Hymn following; one verſe by the Prieſt, and ano<g ref="char:EOLhyphen"/>ther by the Clerk and People:</hi>
+            </p>
+            <q rend="blackletterType">
+               <hi>O</hi> That Men would praiſe the Lord for his goodneſs: and declare the wonders that he doth for the children of men! <bibl>(Pſal. 107. v. 21.)</bibl>
+            </q>
+            <q rend="roman">Let them give thanks whom the Lord hath redeemed: and delivered from the hand of the enemy, (<bibl>ver. 2.</bibl>
+            </q>
+            <q rend="blackletterType">I will hearken what the Lord God will ſay concerning me: for he ſhal ſpeak peace unto his People, and to his Saints. that they turn not a<g ref="char:EOLhyphen"/>gain. <bibl>(Pſal. 85. v. 8.)</bibl>
+            </q>
+            <q rend="roman">For his Salvation is nigh them that fear him: that glory may dwell in our Land. <bibl>(verſ. 9)</bibl>
+            </q>
+            <q rend="blackletterType">The merciful and gracious Lord hath ſo done his marvellous works, that they ought to be had in remembrance, <bibl>(Pſal. 111. v. 4.)</bibl>
+            </q>
+            <q rend="roman">He ſent redemption unto his people: he hath commanded his covenant for ever; holy and reverend is his Name. <bibl>(verſ. 9.)</bibl>
+            </q>
+            <q rend="blackletterType">They got not the land in poſſeſſion through their own ſword: neither was it their own arm that helped them. <bibl>(Pſal. 44. v. 3.)</bibl>
+            </q>
+            <q rend="roman">But thy right hand, and thine arm, and the light of thy countenance: becauſe thou hadſt a favour unto) them. <bibl>(verſ. 4.)</bibl>
+            </q>
+            <q rend="blackletterType">For the Lord will not fail his people: neither will he forſake his inheri<g ref="char:EOLhyphen"/>tance, <bibl>(Pſal. 94. v. 14.)</bibl>
+            </q>
+            <q rend="roman">Until righteouſneſs turn again unto judgment: all ſuch as are true in heart ſhall follow it. <bibl>(verſ. 15)</bibl>
+            </q>
+            <q rend="blackletterType">The righteous will conſider this and rejoyce: and the mouth of all wickedneſs ſhall be ſtopped, <bibl>(Pſal. 107. v. 42.)</bibl>
+            </q>
+            <q rend="roman">Whoſo is wiſe will ponder theſe things: And they ſhall underſtand the loving kindneſs of the Lord <bibl>(verſ. 43)</bibl>
+            </q>
+            <q rend="blackletterType">Glory be to the Father, &amp;c.</q>
+            <q rend="roman">As it was in the beginning, <hi>&amp;c.</hi>
+            </q>
+            <p>¶ Proper Pſalms. XLVI. CXV. CXXIV.</p>
+            <p>¶ Proper Leſſons. The firſt, <hi>Zachary,</hi> VIII.</p>
+            <p>¶ Proper Leſſons. The ſecond, <hi>Romans</hi> XII.</p>
+            <p>¶ In ſtead of the Collect for the Day, this following ſhall be uſed.</p>
+            <q rend="blackletterType">
+               <hi>O</hi> God, the Defender and Saviour of all that truſt in Thee, we give Glory to thy holy Name, for the bleſſed Reformation of this Church, in the days of our Forefathers, from the deteſtable Superſtitions and Corruptions of Popery, and for our Deliverance from the into<g ref="char:EOLhyphen"/>lerable Yoke of the Romiſh Church. We praiſe Thee for that Light of the Goſpel, that Purity of Doctrine and Worſhip, Thou haſt ever ſince vouchſafed unto us; and for the many wonderful Preſervations, by which Thou haſt manifeſted thy Fatherly Care of us, and Preſence with us. More eſpecially at this time we magnifie Thy Goodneſs for our late great and happy Deliverance, whereby we truſt Thou haſt eſtabliſhed to us all Thy former Mercies. Give us Grace, O Lord, to walk worthy of this Thy marvellous Loving Kindneſs, that Thou mayeſt ſtill delight to dwel among us, and to do us good: That the ſame Temporal and Spiritual Bleſſings we now enjoy, may by Thy mighty Protection, be continued to us and our Poſterity for ever. And this we beg for Ieſus Chriſt his ſake. <hi>Amen.</hi>
+            </q>
+            <p>¶ After the general Thankſgiving (<q rend="blackletterType">Almighty God, Father of all Mercies,</q>) ſhall this be uſed:</p>
+            <q rend="blackletterType">
+               <pb facs="tcp:180176:2"/> 
+               <hi>O</hi> Almighty and everliving God, who art glorious in Holineſs, fearful in Praiſes, doing wonders; We moſt humbly preſent our ſelves this Day at the Throne of Thy Grace, to bleſs and adore the unſpeakable Wiſdom and Goodneſs of Thy late Gracious Providence towards us. We acknowledge it was Thy Infinite Mercy alone, that has raiſed this Church and Nation from their low eſtate, and cauſed Light to ſpring out of Darkneſs unto us. It was becauſe Thy Compaſſions fail not, that our Holy Reformed Religion was not overwhelm'd with Popiſh Super<g ref="char:EOLhyphen"/>ſtition and Idolatry, that our Laws and Liberties are reſcued from the Hands of Violence and Oppreſſion. We confeſs our Sins had juſtly pro<g ref="char:EOLhyphen"/>voked Thee to pour down theſe fearful Iudgments upon us, This was the Portion due to our Vnthankfulneſs and manifold Backſlidings: Yet Thou haſt not dealt with us according to our Deſerving, but in the midſt of Iudgment haſt remembred Mercy. Bleſſed be Thy Name, who haſt raiſed up for us a mighty Deliverer, by whom thou haſt wrought this great Salvation without the effuſion of Blood. It is Thy doing, O Lord, and it is marvellous in our Eyes. Wherefore not unto us, not unto us, but to Thy Name be the Glory, for Thy loving Mercy and for Thy Truths ſake, through Ieſus Chriſt our Lord, Amen.</q>
+            <p>¶ In the Communion Service, immediatly before the Epiſtle, let that Prayer which is in ſtead of the Collect for the Day be repeated, [<q rend="blackletterType">O God, the Defender,</q> &amp;c.] For the Epiſtle,</p>
+            <q rend="blackletterType">ANd they ſing the Song of Moſes the Servant of God, and the Song of the Lamb, ſaying, Great and marvellous are thy Works, LORD GOD Almighty; juſt and true are thy ways, thou King of Saints. Who ſhall not fear thee, O LORD, and glorifie thy Name? for thou only art holy: for all Nations ſhall come and worſhip before thee; for thy Iudgments are made manifeſt. <bibl>(Revel. 15. v. 3. to v 5.)</bibl>
+            </q>
+            <q rend="blackletterType">
+               <p>
+                  <label>The Goſpel.</label> ANd when he had called the people unto him, with his diſciples alſo, he ſaid unto them, Whoſoever will come after me, let him deny himſelf, and take up his Croſs, and follow me; For whoſoever will ſave his life ſhall loſe it; but whoſoever ſhall loſe his life for my ſake and the Goſpels, the ſame ſhall ſave it: For what ſhall it profit a Man, if he ſhall gain the whole World, and loſe his own Soul? Or what ſhal a man give in exchange for his ſoul? Whoſoever therefore ſhall be aſhamed of me, and of my words, in this adulterous and ſinful Generation, of him alſo ſhall the Son of Man be aſhamed when he cometh in the Glory of his Father, with the holy An<g ref="char:EOLhyphen"/>gels.</p> 
+               <bibl>(Mark 8. v. 34.)</bibl>
+            </q>
+            <p>¶ After the Prayer for the whole State of Chriſts Church, theſe Pravers following ſhall be uſed.</p>
+            <q rend="blackletterType">
+               <p>
+                  <hi>O</hi> Eternal God, the bleſſed and only Potentate, the Prince of Peace, Accept, we beſeech Thee, the Thankſgivings and Praiſes of thy Ser<g ref="char:EOLhyphen"/>vants, for our Deliverance from thoſe great and apparent Dangers, wherewith we were compaſſed. It is of Thy Mercy, O Lord, that we were not utterly conſumed, that our Religion was not deſtroyed, nor our Liberty ſubverted: but that we ſtill freely profeſs Thy Sacred Truth, and joyn in Thy moſt Holy Worſhip, and poſſeſs the Rights and Inheritances of our Fathers. Go on to perfect, O Gracious God, the Work that Thou haſt begun amongſt us. Bleſs and proſper the Hands, by which thou haſt con<g ref="char:EOLhyphen"/>veyed this Mercy to us. Direct our Governors with the Spirit of Wisdom and Righteouſneſs. Rule Thou in the midſt of our Publick Councils, for the Advancement of thy Glory, and the laſting Welfare of this great Peo<g ref="char:EOLhyphen"/>ple. Diſpoſe the Hearts of the whole Nation to all Lowlineſs and Meek<g ref="char:EOLhyphen"/>neſs, and Forbearance of one another in love, that no Seditions may di<g ref="char:EOLhyphen"/>ſturb this State, no Schiſms diſtract this Church: but as Members of one Body, Profeſſors of one Faith, Sons of one Father, and called to one Hope, we may earneſtly endeavour to keep the Vnity of the Spirit in the Bond of Peace, and with one Heart and one Mouth Glorifie God the Father of our Lord Ieſus Chriſt, to whom be aſcribed all Honour and Praiſe now and for ever, Amen.</p>
+               <p>
+                  <hi>O</hi> Lord we beſeech Thee to keep Thy Church and Houſhold continually in Thy true Religion, that they who do lean only upon the hope of Thy Heavenly Grace, may evermore be defended by thy mighty Power through Ieſus Chriſt our Lord. Amen.</p>
+               <p>THe Peace of God which paſſeth all Vnderſtanding, keep your Hearts and Minds in the knowledge and love of God, and of his Son Ieſus Chriſt our Lord: And the Bleſsing of God Almighty, the Father, the Son, and the Holy Ghoſt, he amongſt you, and remain with you always. Amen.</p>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:180176:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
